@@ -28,3 +28,10 @@ virtual environments:
 > (automation_cookbook) $ deactivate
 > $ workon automation_cookbook
 > (automation_cookbook) $
+
+List of available commands
+lsvirtualenv
+mkvirtualenv test
+workon test
+deactivate
+rmvirtualenv test
